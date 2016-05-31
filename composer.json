@@ -1,5 +1,5 @@
 {
-  "name": "basster/silex-simple-swagger-provider",
+  "name": "marc-mbc/silex-simple-swagger-provider",
   "description": "A silex service provider that integrates swagger-php 2.0 into silex",
   "keywords": [
     "silex",
